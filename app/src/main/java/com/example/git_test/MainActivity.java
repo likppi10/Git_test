@@ -7,6 +7,7 @@ import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
+    //안녕? 나는 로봇
     //인간이 수정하였다.
     //이간이 수정하였다.2
     @Override
