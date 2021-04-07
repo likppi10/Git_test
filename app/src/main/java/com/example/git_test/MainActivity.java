@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     //로좃이 수정2
     //로봇의 수정3
     //사람 수정 1
+    //stash?
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
