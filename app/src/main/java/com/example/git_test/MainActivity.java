@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     //어라? 로봇이 손을 댔네? 나도 고칠거 있다
     //로봇이 수정 1
     //로좃이 수정2
+    //로봇의 수정3
     //사람 수정 1
     @Override
     protected void onCreate(Bundle savedInstanceState) {
