@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
     //인간이 수정하였다.
     //이간이 수정하였다.2
     //로봇이 수정 1
-    
+    //로좃이 수정2
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
